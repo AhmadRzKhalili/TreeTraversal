@@ -3,7 +3,7 @@ Tree Traversal
 Consider the tree below:
      A
    /   \
-  C	    B
+  C	B
  / \	 \
 F   E	  D
    /	 / \
@@ -25,7 +25,7 @@ Zigzag traversal sequence of this tree: A C B D E F R X W
 It also gets an integer number like n as input and displays nth node of the tree. Index of each node is considered as below:
      0
    /   \
-  2	    1
+  2	1
  / \	 \
 5   4	  3
    /	 / \
