@@ -1,4 +1,4 @@
-#Tree Traversal
+Tree Traversal
 
 Consider the tree below:
      A
